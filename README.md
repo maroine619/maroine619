@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **lostings app**
 
-- 📄 Know about me [https://maroine619.github.io/personal-site/](https://maroine619.github.io/personal-site/)
-
 - ⚡ i love writing **javascript**
 
 <h3 align="left">Connect with me:</h3>
