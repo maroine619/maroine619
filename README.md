@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maroine</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
 
-- 🔭 I’m currently working on **lostings app**
+- 🔭 I’m currently working on **react app**
 
 - ⚡ i love writing **javascript**
 
